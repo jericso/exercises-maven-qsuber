@@ -84,7 +84,7 @@
           <configuration>
             <archive>
               <manifest>
-                <mainClass>com.prolegoma.exercises.maven.App</mainClass>
+                <mainClass>com.prolegoma.exercises.maven.QsUber</mainClass>
               </manifest>
             </archive>
           </configuration>

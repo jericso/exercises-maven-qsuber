@@ -18,6 +18,8 @@ Combined Java and Maven .gitignore files from GitHub.
 
 ## References
 
-https://maven.apache.org/plugins/maven-assembly-plugin/usage.html
+https://maven.apache.org/plugins/maven-jar-plugin/
+
+https://maven.apache.org/plugins/maven-assembly-plugin/
 
 https://github.com/github/gitignore
